@@ -2,7 +2,7 @@
 
 Vocês têm um desafio: Até as 23h59, precisam ter dado commit e push em um arquivo JAVA para um repositório no seu Github.
 
-Esse arquivo java deve fazer uma coisa muito simples: Imprimir na tela a mensagem "Olá, Arbyte"
+* Esse arquivo java deve fazer uma coisa muito simples: Imprimir na tela a mensagem "Olá, Arbyte"
 
 A ferramenta pra fazer isso é o GIT. Mas para tal, vocês precisam ter uma conta no Github. E precisam saber como fazer um arquivo java. E precisam saber como conectar seu repositório local do git no seu repositório remoto do github.
 
