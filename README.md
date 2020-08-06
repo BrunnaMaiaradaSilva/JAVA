@@ -12,4 +12,6 @@ A aula de hoje só terá Checkin e Checkout. A sala será quebrada em salas meno
 
 **Bom trabalho!**
 
+![octocat](https://user-images.githubusercontent.com/45864414/89591772-6f3cd700-d821-11ea-83a6-0fdf60709675.png)
+
 
